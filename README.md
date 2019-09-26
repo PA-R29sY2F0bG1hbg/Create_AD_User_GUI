@@ -13,3 +13,4 @@ You will be able to execute the script without an active directory and see the G
 but in thise case you won't be able to have all the functionnality of the programme.
 
 
+![2019-09-26 15_49_56-AD_USER_CREATION_GUI](https://user-images.githubusercontent.com/18190054/65695373-bb52b300-e077-11e9-80e7-5177ba8dd477.png)
