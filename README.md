@@ -15,6 +15,6 @@ Powershell GUI for AD User Creation
 #| :| 	/^(o.o)^\    Version: 1.0
      	                    
 
-Use powershell for lunch the script.
+Use PowerShell for lunch the script.
 You will be able to execute the script without an active directory and see the GUI.
-but in thise case you won't be able to have all the functionnality.
+but in this case you can't have all the functionality.
