@@ -7,7 +7,7 @@
 Powershell GUI for AD User Creation
       
 
-#|: | Author:  Philippe-Alexandre Munch                           
+#|: | Author:  Gold_Cattleman                           
 #| :| Email:   --------------------------------                   
 #|: | Purpose: Create_User :)  in GUI Version                                               
 #|: |         		Date:15-08-2018                           
